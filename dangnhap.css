@@ -5,7 +5,7 @@ body{
 	line-height: 1.7;
 	color: #ffeba7;
 	background-color: #1f2029;
-  background-image: url(/anh/backgroundimg.png);
+  background-image: url(./anh/backgroundimg.png);
 }
 
 a:hover {
